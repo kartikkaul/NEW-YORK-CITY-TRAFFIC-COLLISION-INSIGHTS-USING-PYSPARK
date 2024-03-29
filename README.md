@@ -22,6 +22,9 @@ The approach involves data preprocessing, feature selection, and applying variou
 
 ### Results Summary
 The outcomes of the analysis are presented, showing the performance of the models in terms of accuracy, precision, recall, and F1 score. The linear regression model demonstrated a significant ability to explain variability in the dependent variable, while the classification models varied in their predictive accuracy and precision.
+The results from our models indicated that the Linear Regression model explained approximately 72% of the variability with an RMSE of 0.1698. For classification models like Random Forest, Decision Tree, and Multi-class Logistic Regression, accuracy ranged from 63.87% to 66.79%, with Decision Tree slightly outperforming others in terms of F1 score.
+
+
 
 ### Comparative Analysis and Problems Encountered
 This section compares the performance of the classification models and discusses challenges such as handling categorical variables, large data sizes, weak correlations, and feature selection for the Random Forest classifier.
